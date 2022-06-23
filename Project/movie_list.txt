@@ -1,0 +1,61 @@
+***************************** MOVIE LIST *****************************
+Ford v Ferrari
+English
+2019
+https://www.youtube.com/watch?v=zyYgDtY2AMY
+posters\\ford_v_ferrari.jpg
+Carroll Shelby, an automotive designer, and Ken Miles, a race car driver, join hands to build a trailblazing vehicle and compete against the Ferrari race cars.
+Drama/Sport
+152
+James Mangold
+6
+2022,06,05,13,15;2022,06,05,16,15;2022,06,05,20,15
+-------------------------------
+Iron Man
+English
+2008
+https://www.youtube.com/watch?v=zyYgDtY2AMY
+posters\\iron_man.jpg
+When Tony Stark, an industrialist, is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces to save the world.
+Action/Adventure
+126
+Jon Favreau
+5
+2022,06,05,10,30;2022,06,05,13,15;2022,06,05,16,15;2022,06,05,20,15
+-------------------------------
+The Dark Knight
+English
+2008
+https:https://www.youtube.com/watch?v=EXeTwQWrcwY
+posters\\the_dark_knight.jpg
+After Gordon, Dent and Batman begin an assault on Gotham's organised crime, the mobs hire the Joker, a psychopathic criminal mastermind who offers to kill Batman and bring the city to its knees.
+Action/Adventure
+152
+Christopher Nolan
+4
+2022,06,05,10,30;2022,06,05,13,15;2022,06,05,16,15;2022,06,05,20,25
+-------------------------------
+The Godfather
+English
+1972
+https:https://www.youtube.com/watch?v=UaVTIH8mujA
+posters\\god_father.png
+The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.
+Crime/Drama
+175
+Francis Ford Coppola
+3
+2022,06,05,10,30;2022,06,05,13,15;2022,06,05,16,15;2022,06,05,20,30
+-------------------------------
+Miracle in Cell No. 7
+Turkish
+2019
+https:https://www.youtube.com/watch?v=z_tgY9Nmo18
+posters\\miracle_7.jpg
+A story of love between a mentally-ill father who was wrongly accused of murder and his six year old daughter.
+Drama
+132
+Mehmet Ada Oztekin
+2
+2022,06,05,10,30;2022,06,05,13,15;2022,06,05,16,15;2022,06,05,20,45
+-------------------------------
